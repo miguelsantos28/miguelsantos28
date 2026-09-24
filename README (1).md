@@ -1,6 +1,6 @@
 # 👋 Sobre mim
 
-Meu nome é Miguel Santos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo e tenho formação técnica em Eletrônica pela ETEC Euro Albino de Souza.
+Meu nome é Miguel Santos, sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e tenho formação técnica em Eletrônica pela ETEC Euro Albino de Souza.
 
 Estou construindo minha base em desenvolvimento backend com Python e FastAPI, com PostgreSQL como banco principal, e agora avançando para o frontend com React. Meus projetos são feitos para praticar de ponta a ponta: modelagem de dados, API, autenticação e, mais recentemente, interface.
 
